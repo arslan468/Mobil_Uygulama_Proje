@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Proje</string>
+    <string name="newbtn">Yeni Hesap Oluştur</string>
+    <string name="newussers">Ad</string>
+    <string name="newpassword">Şifre</string>
+    <string name="signin">Giriş Yap</string>
+    <string name="back">Geri dön </string>
+    <string name="hm">Hesap Makinesi</string>
+    <string name="btn">Uygula</string>
+    <string name="btn1">2.Uygulamaya Geçiş</string>
+    <string name="btn2">1.Uygulamaya Dön</string>
+    <string name="btn3">3.Uygulamaya Geçiş</string>
+    <string name="btn4">2.Uygulamaya Dön</string>
+    <string name="rb1">Yaz</string>
+    <string name="rb2">Sonbahar</string>
+    <string name="rb3">Kış</string>
+    <string name="rb4">İlkbahar</string>
+    <string name="md">Mevsim Değişimi</string>
+    <string name="on_of">Aç Kapa Ampul</string>
+    <string name="txt2">Oyuncu</string>
+    <string name="txt3">Bilgisayar</string>
+    <string name="btn5">Taş</string>
+    <string name="btn6">Kağıt</string>
+    <string name="btn7">Makas</string>
+    <string name="tas">Taş-Kağıt-Makas</string>
+    <string name="exit">Uygulamayı Kapat</string>
+    <string name="loginn">Giriş Sayfasına Dön</string>
+
+
+</resources>
